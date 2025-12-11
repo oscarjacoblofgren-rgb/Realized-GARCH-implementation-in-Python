@@ -1,2 +1,2 @@
 # Realized-GARCH-implementation-in-Python
-In true spirit of Linus Torwald attitued, i decided to create my own Realized GARCH 
+In the true spirit of Linus Torvald attituded, I decided to create my own Realized GARCH 
